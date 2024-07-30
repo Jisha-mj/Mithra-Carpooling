@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/Teena-vithayathil/Mithra-Carpooling/image?font=Rokkitt&amp;name=1&amp;pattern=Solid&amp;theme=Light" alt="project-image"></p>
 
-<p id="description">Mithra carpooling is a mini project of women-only carpooling website where users are verified through ID proof and driving license. It also incorporates product delivery services. Here we provide dynamic pricing which can be decided by the driver. The price is calculated for each stop (not on km basis). Only a person who have uploaded their driving license can post a carpool and see the requests. A carpool can get multiple requests from the users and the driver can choose from them. There is option to view others profile and to post reviews and rating.</p>
+<p id="description">Mithra carpooling is a mini project of women-only carpooling website where users are verified through ID proof and driving license. It also incorporates product delivery services. Here we provide dynamic pricing which can be decided by the driver. The price is calculated for each stop (not on km basis). Only a person who have uploaded their driving license can post a carpool and see the requests. A carpool can get multiple requests from the users and the driver can choose from them. There is option to view others profile and to post reviews and ratings.</p>
 
 
 <h2>🛠️ Installation Steps:</h2>
